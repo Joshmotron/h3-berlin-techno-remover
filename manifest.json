@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "Berlin.Techno.Remover",
 	"name": "Berlin Techno Remover",
 	"description": "Silence the overly oppressive techno music for migraine sufferers.",
 	"authors": ["The Reverend Tim Tom"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.33",
+	"updateCheck": "https://github.com/Joshmotron/h3-berlin-techno-remover/releases/latest/download/updates.json"
 }
