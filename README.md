@@ -6,4 +6,4 @@ Silence the overly oppressive techno music for migraine sufferers.
 
 ---
 
-`Berlin.Techno.Remover` v0.2.0, by The Reverend Tim Tom. This README was automatically generated from the mod's manifest.
+`Berlin.TechnoRemover` v0.3.0, by The Reverend Tim Tom. This README was automatically generated from the mod's manifest.
