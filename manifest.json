@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "Berlin.Techno.Remover",
+	"name": "Berlin Techno Remover",
+	"description": "Silence the overly oppressive techno music for migraine sufferers.",
+	"authors": ["The Reverend Tim Tom"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.25.1"
 }
