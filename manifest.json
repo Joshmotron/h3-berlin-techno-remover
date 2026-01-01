@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.2.0",
-	"id": "Berlin.Techno.Remover",
+	"id": "Berlin.TechnoRemover",
 	"name": "Berlin Techno Remover",
 	"description": "Silence the overly oppressive techno music for migraine sufferers.",
 	"authors": ["The Reverend Tim Tom"],
